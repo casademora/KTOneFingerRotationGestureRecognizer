@@ -27,7 +27,7 @@
 #import <UIKit/UIKit.h>
 
 
-@interface KTOneFingerRotationGestureRecognizer : UIGestureRecognizer 
+@interface KTOneFingerRotationGestureRecognizer : UIPanGestureRecognizer 
 {
     
 }
